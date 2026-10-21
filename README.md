@@ -82,7 +82,7 @@
 - [GitHub Projects для трекинга задач](https://github.com/features/issues)
 - [Trello — канбан-доска проекта](https://trello.com/)
 
-![Пример схемы проекта](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/320px-Markdown-mark.svg.png)
+![Пример схемы проекта](https://share.google/4A62tepL67odJL2DN)
 
 ---
 
